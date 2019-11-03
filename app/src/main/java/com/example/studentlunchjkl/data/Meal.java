@@ -112,6 +112,7 @@ public class Meal {
      * @return true if meal has no allergy ingredients
      */
     public boolean checkAllergies(String[] allergyList) {
+
         for(int i = 0; i < recipes.size(); i++){
             if(recipes.get(i).hasAllergies(allergyList)) isAllowed = false;
         }

@@ -60,7 +60,6 @@ public class MainActivity extends AppCompatActivity implements DownloadCallback<
         SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-M-d");
         date = dateFormat.format(d);
         Log.d(TAG, date);
-        //Menu menu = new Menu();
 
         networkFragment = NetworkFragment.getInstance(getSupportFragmentManager(), urlStartSemma);
 

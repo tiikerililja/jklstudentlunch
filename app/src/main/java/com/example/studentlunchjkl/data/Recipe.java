@@ -71,6 +71,7 @@ public class Recipe {
         String n = name.toLowerCase();
         for(String s : allergies){
             s = s.trim().toLowerCase();
+            if(s.equals("")) continue;
             if(n.contains(s)) return true;
             if(i.contains(s)){
                 return true;
