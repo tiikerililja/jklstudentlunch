@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Student Lunch Jkl</string>
+    <string name="lunch_name">Lunch</string>
+    <string name="not_available">not available</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+    <string name="allergies">Allergies</string>
+    <string name="restaurant_choosing">Choose restaurants</string>
+
+    <string-array name="restaurants">
+        <item>Piato</item>
+        <item>Maija</item>
+        <item>Uno</item>
+        <item>Rentukka</item>
+        <item>Kvarkki</item>
+        <item>Ylistö</item>
+        <item>Lozzi</item>
+        <item>Syke</item>
+        <item>Tilia</item>
+    </string-array>
+    <string-array name="restaurants_values">
+        <item>207735</item>
+        <item>207659</item>
+        <item>207190</item>
+        <item>206838</item>
+        <item>207038</item>
+        <item>207103</item>
+        <item>207272</item>
+        <item>207483</item>
+        <item>207412</item>
+    </string-array>
+    <string name="allowed"></string>
+    <string name="update">Update</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Lunch Jkl</string>
+    <string name="lunch_name">Lounas</string>
+    <string name="not_available">Ei saatavilla</string>
+    <string name="forbidden">Kielletty</string>
+    <string name="allergies">Allergiat</string>
+    <string name="restaurant_choosing">Valitse ravintolat</string>
+    <string name="allowed">" "</string>
+    <string name="update">Päivitä</string>
+</resources>
